@@ -141,7 +141,7 @@ const Hamburger = ({ state }) => {
       duration: 0.3,
       y: 3,
       skewX: 4,
-      ease: "power1.inOut",
+      ease: "power1.inOut"
     });
   };
 
@@ -151,7 +151,7 @@ const Hamburger = ({ state }) => {
       duration: 0.3,
       y: -3,
       skewX: 0,
-      ease: "power1.inOut",
+      ease: "power1.inOut"
     });
   };
 
