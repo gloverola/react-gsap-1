@@ -131,7 +131,7 @@ const Hamburger = ({ state }) => {
   const handleCityReturn = () => {
     gsap.to(cityBackground, {
       duration: 0.4,
-      opacity: 0,
+      opacity: 0
     });
   };
 
